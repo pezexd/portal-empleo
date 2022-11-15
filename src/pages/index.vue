@@ -20,6 +20,7 @@
           Encantados de tenerte por aqui
         </p>
         <input type="text" class="bg-transparent text-2xl border-b-2 border-black outline-none" placeholder="Nombres y Apellidos">
+        <iframe width="560" height="315" src="https://test-roth.vercel.app/embed/ba217e12-f39f-4498-9e22-84519ff0bbad" title="RodeoNow VideoPlayer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       <div>
         <a href="#" class="flex justify-center items-center gap-2 rounded-full py-3 px-8 text-lg bg-primary-l text-stone-50">
